@@ -1,0 +1,8 @@
+{
+    "ami_id": "ami-09456e8683eb4d259",
+    "instance_name": "servicenow5",
+    "instance_type": "t3.small",
+    "region": "us-west-2",
+    "infrastructure_id": "00b88e3ddbe71010b1c1fe1b689619f0",
+    "servicenow_sys_id": "c0b88e3ddbe71010b1c1fe1b689619f0"
+}
